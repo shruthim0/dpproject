@@ -40,3 +40,31 @@ These are just some examples of the beautiful sights at this location:
     <img src="images/purpleplant.jpg" alt="Akaka Falls" style="width:100%">
   </div>
 </div>
+
+
+### Holoholokai Beach Park
+> This is a beautiful rockey shoreline with picnic areas are scenic views
+<div class="row"> 
+  <div class="column">
+    <img src="images/holoholokaibeach.jpg" alt="Holoholokai Beach" style="width:100%">
+  </div>
+   <div class="column">
+    <img src="images/holoholokaibeach2.jpg" alt="Holoholokai Beach" style="width:100%">
+  </div>
+</div>
+
+
+### Sunset Beach 
+> Visit this beach for a relaxing atmosphere, great restaurants, and beautiful sunset
+ 
+<div class="row"> 
+  <div class="column">
+    <img src="images/sunset1.jpg" alt="Sunset Beach" style="width:100%">
+  </div>
+   <div class="column">
+    <img src="images/sunset2.jpg" alt="Sunset Beach" style="width:100%">
+  </div>
+   <div class="column">
+    <img src="images/sunset3.jpg" alt="Sunset Beach" style="width:100%">
+  </div>
+</div>
