@@ -1,37 +1,42 @@
-## Shruthi
-> Each evening family will meet.  Family nights are intended to build the Leuck family legacy.
+## Nature Locations
+> Here are the different nature spots you should visit!
 
-### Leuck Greet
-> Movie, Games, Popcorn.  As we slumber in from our travels, how about an unwinding night?
-- Start with Movie
-- Transition to games
-- Mom and Pop welcome, stories about there first family reunions.  Recap of some of the great Leuck get togethers. 
+### Tropical Bioreserve 
+> Filled with exotic plants and beautiful geological formations, this spot provides breathtaking scenery and a relaxing hike
+ 
 
-Trivia, which one is Frank and Judith?  who are the others?
-<div class="row"> <!--- make a new row -->
-  <!-- each column is one-third of width -->
+These are just some examples of the beautiful sights at this location:
+<div class="row"> 
   <div class="column">
-    <img src="/images/sherwood_glena.jpg" alt="Field" style="width:100%">
+    <img src="images/plants.jpg" alt="Plant Life" style="width:100%">
   </div>
    <div class="column">
-    <img src="/images/frank_judith.jpg" alt="Bocce" style="width:100%">
+    <img src="images/waterfall.jpg" alt="Waterfall" style="width:100%">
   </div>
    <div class="column">
-    <img src="/images/norville_erma.jpg" alt="Pool" style="width:100%">
+    <img src="images/bigtrees.jpg" alt="Plant Life" style="width:100%">
   </div>
 </div>
 
-### Tuesday Family Night
-> Family History night.  What better way to unite in reunion spirit then talk about us, explore our similarities and get excited about our differences.  A night of stories on how we all came together as Leuck's, plus some games on our similarities and differences.
-- Learn the "Leuck Song"
-- Kick off with some games to look at our similarities and differences.
-- Originals, plan 5 minute story and introduction on you and your clan.   Props and acting encouraged with your stories.  Stick to the 5 minute time line.
-- Frank and Judith love story
-- Encores and requests
-- Family prayer, 'Leuck style'
+<div class="row"> 
+  <div class="column">
+    <img src="images/walkway.jpg" alt="Beautiful Walkway" style="width:100%">
+  </div>
+   <div class="column">
+    <img src="images/littleisland.jpg" alt="Rock Island" style="width:100%">
+  </div>
+   <div class="column">
+    <img src="images/bigtree2.jpg" alt="Plant Life" style="width:100%">
+  </div>
+</div>
 
-### Wednesday Family Night
-
-### Thursday Family Night
-
-### Friday Family Night
+### Akaka Falls
+> Visit this 442 foot drop of raging water and see the beautiful green nature surrounding it! 
+<div class="row"> 
+  <div class="column">
+    <img src="images/akaka1.jpg" alt="Akaka Falls" style="width:100%">
+  </div>
+   <div class="column">
+    <img src="images/purpleplant.jpg" alt="Akaka Falls" style="width:100%">
+  </div>
+</div>
