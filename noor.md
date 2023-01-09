@@ -106,6 +106,17 @@ It's no surprise this is a favored travel destination for the blue-blooded; blue
   </div>
 </div>
 
+<html>
+  <head>
+    <title>---</title>
+  </head>
+  <body>
+    <button onclick="window.location.href='https://www.thepiratemuseum.com/';">
+      Museum Information
+    </button>
+  </body>
+</html>
+
 ### Open 12:00 pm to 5:00 pm Mon-Sat
 
 ### Free admission for children 10 and younger
