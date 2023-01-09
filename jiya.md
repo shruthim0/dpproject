@@ -1,5 +1,5 @@
 ## Jiya
-> Each evening family will meet.  Family nights are intended to build the Leuck family legacy.
+> This island has great wildlife! See below for a guide on which birds, fish, and animals to look out for!
 
 ### Leuck Greet
 > Movie, Games, Popcorn.  As we slumber in from our travels, how about an unwinding night?
