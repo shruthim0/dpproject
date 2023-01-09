@@ -1,4 +1,4 @@
-theme: jekyll-theme-midnight
+remote_theme: pages-themes/minimal@v0.2.0
 title: "Island Tour Guide"
 description: "Plan your next vacation using these amazing sites"
 gitorg: "https://github.com/jm1021/leuck_reunion"
