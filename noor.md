@@ -1,4 +1,4 @@
-## Noor
+# History
 <br>
 <br>
 Prepare to follow in the footsteps of some of the most famous (and infamous) sailors of the West Indies... Both prince and pirate have set foot on this very island, and you'll get to learn all about it!
