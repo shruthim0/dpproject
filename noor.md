@@ -107,7 +107,6 @@ It's no surprise this is a favored travel destination for the blue-blooded; blue
 </div>
 <br>
 <br>
-<br>
 <html>
   <head>
     <title>---</title>
@@ -118,7 +117,6 @@ It's no surprise this is a favored travel destination for the blue-blooded; blue
     </button>
   </body>
 </html>
-<br>
 <br>
 <br>
 ### Open 12:00 pm to 5:00 pm Mon-Sat
