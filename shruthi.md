@@ -49,7 +49,7 @@ These are just some examples of the beautiful sights at this location:
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Plant Name</span></th>
+    <th class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Plant's at this location</span></th>
     <th class="tg-0pky"><span style="font-weight:bold">What to look for</span></th>
   </tr>
 </thead>
