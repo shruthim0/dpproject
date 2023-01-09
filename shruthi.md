@@ -41,39 +41,41 @@ These are just some examples of the beautiful sights at this location:
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fgy3{font-family:"Courier New", Courier, monospace !important;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-zh46{border-color:inherit;font-family:"Courier New", Courier, monospace !important;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Plant Name</span></th>
-    <th class="tg-0pky">What to look for</th>
+    <th class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Plant Name</span></th>
+    <th class="tg-0pky"><span style="font-weight:bold">What to look for</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">Hibiscus tiliaceus – Hau</td>
+    <td class="tg-zh46"><span style="font-weight:bold">Hibiscus tiliaceus – Hau</span></td>
     <td class="tg-0pky"><img src="https://wildlifeofhawaii.com/images/flowers/Hibiscus-tiliaceus-2.jpg" alt="Image" width="200" height="200"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Sadleria cyatheoides – Amaumau Fern</td>
+    <td class="tg-zh46"><span style="font-weight:bold">Sadleria cyatheoides – Amaumau Fern</span></td>
     <td class="tg-0pky"><br><img src="https://wildlifeofhawaii.com/images/flowers/Sadleria-cyatheoides-1.jpg" alt="Image" width="200" height="148"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Ipomoea indica – Oceanblue Morning-glory</td>
+    <td class="tg-zh46"><span style="font-weight:bold">Ipomoea indica – Oceanblue Morning-glory</span></td>
     <td class="tg-0pky"><br><img src="https://www.gardenia.net/storage/app/public/uploads/images/detail/10276508_m.webp" alt="Image" width="200" height="148"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Hedychium gardnerianum – Kahili Ginger</td>
+    <td class="tg-zh46"><span style="font-weight:bold">Hedychium gardnerianum – Kahili Ginger</span></td>
     <td class="tg-0pky"><br><img src="https://alohatropicals.com/wp-content/uploads/2018/11/HD-11-Hedychium-Gardnarium-Kahili.jpg" alt="Image" width="200" height="148"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Medinilla magnifica – Rose Grape</td>
+    <td class="tg-zh46"><span style="font-weight:bold">Medinilla magnifica – Rose Grape</span></td>
     <td class="tg-0pky"><br><br><img src="https://i.pinimg.com/564x/fd/8a/b5/fd8ab540970cce575e955f8a25376451.jpg" alt="Image" width="200" height="148"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Phaius tancarvilleae – Nun's-hood Orchid</td>
+    <td class="tg-fgy3"><span style="font-weight:bold">Phaius tancarvilleae – Nun's-hood Orchid</span></td>
     <td class="tg-0lax"><br><img src="https://www.aos.org/AOS/media/Content-Images/Orchids/Phaius_tankervillae.jpg" alt="Image" width="200" height="148"></td>
   </tr>
 </tbody>
@@ -123,6 +125,9 @@ These are just some examples of the beautiful sights at this location:
     <img src="images/sunset3.jpg" alt="Sunset Beach" style="width:100%">
   </div>
 </div>
+<br>
+<br>
+<br>
 
 ## Dolphin Watching at North Shore
 > *Dolphin watching and interactions
