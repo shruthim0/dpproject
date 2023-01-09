@@ -1,9 +1,12 @@
-## Nature Locations
-> Here are the different nature spots you should visit!
+# **Nature Locations**
+Here are the different nature spots you should visit!
+<br>
+<br>
 
-### Tropical Bioreserve 
-> Filled with exotic plants and beautiful geological formations, this spot provides breathtaking scenery and a relaxing hike
- 
+## Tropical Bioreserve 
+> *Filled with exotic plants and beautiful geological formations, this spot provides breathtaking scenery and a relaxing hike*
+<br>
+<br>
 
 These are just some examples of the beautiful sights at this location:
 <div class="row"> 
@@ -29,9 +32,59 @@ These are just some examples of the beautiful sights at this location:
     <img src="images/bigtree2.jpg" alt="Plant Life" style="width:100%">
   </div>
 </div>
+<br>
+<br>
 
-### Akaka Falls
-> Visit this 442 foot drop of raging water and see the beautiful green nature surrounding it! 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Plant Name</span></th>
+    <th class="tg-0pky">What to look for</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Hibiscus tiliaceus – Hau</td>
+    <td class="tg-0pky"><img src="https://wildlifeofhawaii.com/images/flowers/Hibiscus-tiliaceus-2.jpg" alt="Image" width="200" height="200"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Sadleria cyatheoides – Amaumau Fern</td>
+    <td class="tg-0pky"><br><img src="https://wildlifeofhawaii.com/images/flowers/Sadleria-cyatheoides-1.jpg" alt="Image" width="200" height="148"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Ipomoea indica – Oceanblue Morning-glory</td>
+    <td class="tg-0pky"><br><img src="https://www.gardenia.net/storage/app/public/uploads/images/detail/10276508_m.webp" alt="Image" width="200" height="148"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Hedychium gardnerianum – Kahili Ginger</td>
+    <td class="tg-0pky"><br><img src="https://alohatropicals.com/wp-content/uploads/2018/11/HD-11-Hedychium-Gardnarium-Kahili.jpg" alt="Image" width="200" height="148"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Medinilla magnifica – Rose Grape</td>
+    <td class="tg-0pky"><br><br><img src="https://i.pinimg.com/564x/fd/8a/b5/fd8ab540970cce575e955f8a25376451.jpg" alt="Image" width="200" height="148"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Phaius tancarvilleae – Nun's-hood Orchid</td>
+    <td class="tg-0lax"><br><img src="https://www.aos.org/AOS/media/Content-Images/Orchids/Phaius_tankervillae.jpg" alt="Image" width="200" height="148"></td>
+  </tr>
+</tbody>
+</table>
+<br>
+<br>
+
+
+
+## Akaka Falls
+> *Visit this 442 foot drop of raging water and see the beautiful green nature surrounding it!* 
 <div class="row"> 
   <div class="column">
     <img src="images/akaka1.jpg" alt="Akaka Falls" style="width:100%">
@@ -40,10 +93,11 @@ These are just some examples of the beautiful sights at this location:
     <img src="images/purpleplant.jpg" alt="Akaka Falls" style="width:100%">
   </div>
 </div>
+<br>
+<br>
 
-
-### Holoholokai Beach Park
-> This is a beautiful rockey shoreline with picnic areas are scenic views
+## Holoholokai Beach Park
+> *This is a beautiful rockey shoreline with picnic areas are scenic views*
 <div class="row"> 
   <div class="column">
     <img src="images/holoholokaibeach.jpg" alt="Holoholokai Beach" style="width:100%">
@@ -52,10 +106,11 @@ These are just some examples of the beautiful sights at this location:
     <img src="images/holoholokaibeach2.jpg" alt="Holoholokai Beach" style="width:100%">
   </div>
 </div>
+<br>
+<br>
 
-
-### Sunset Beach 
-> Visit this beach for a relaxing atmosphere, great restaurants, and beautiful sunset
+## Sunset Beach 
+> *Visit this beach for a relaxing atmosphere, great restaurants, and beautiful sunset*
  
 <div class="row"> 
   <div class="column">
@@ -68,3 +123,15 @@ These are just some examples of the beautiful sights at this location:
     <img src="images/sunset3.jpg" alt="Sunset Beach" style="width:100%">
   </div>
 </div>
+
+## Dolphin Watching at North Shore
+> *Dolphin watching and interactions
+
+<div class="row"> 
+  <div class="column">
+    <img src="images/dolphins.jpg" alt="Dolphins" style="width:100%">
+  </div>
+</div>
+
+
+
