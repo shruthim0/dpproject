@@ -137,6 +137,19 @@ These are just some examples of the beautiful sights at this location:
     <img src="images/dolphins.jpg" alt="Dolphins" style="width:100%">
   </div>
 </div>
+<br>
+<br>
+<br>
 
+<html>
+  <head>
+    <title>---</title>
+  </head>
+  <body>
+    <button onclick="window.location.href='https://www.hawaiitours.com/to-do/the-encounter/?utm_term=&utm_campaign=Sales-Performance+Max+-+California+-+Top+Performing+Demographics&utm_source=google&utm_medium=cpc&hsa_acc=3498969537&hsa_cam=18934892623&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAiAk--dBhABEiwAchIwkQjcJMGieCKfQUpqR9Tp9hrwnoB1u7NoMMR5732WWJJHTgg0AcB4gRoCAqMQAvD_BwE;'">
+      Click here for info on dolphin tours!
+    </button>
+  </body>
+</html>
 
 
