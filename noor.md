@@ -1,5 +1,5 @@
 ## Noor
-> Each evening family will meet.  Family nights are intended to build the Leuck family legacy.
+> Prepare to e=follow in the footsteps of some of the most famous, *and* infamous, sailors of the West Indies. Both prince and pirate have set foot on this very island, and you'll get to learn all about it!
 
 ### Leuck Greet
 > Movie, Games, Popcorn.  As we slumber in from our travels, how about an unwinding night?
