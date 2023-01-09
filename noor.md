@@ -105,7 +105,9 @@ It's no surprise this is a favored travel destination for the blue-blooded; blue
     <img src="images/heeheepiratemuseum.jpg" alt="hee hee pirate museum" style="width:100%">
   </div>
 </div>
-
+<br>
+<br>
+<br>
 <html>
   <head>
     <title>---</title>
@@ -116,7 +118,9 @@ It's no surprise this is a favored travel destination for the blue-blooded; blue
     </button>
   </body>
 </html>
-
+<br>
+<br>
+<br>
 ### Open 12:00 pm to 5:00 pm Mon-Sat
 
 ### Free admission for children 10 and younger
