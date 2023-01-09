@@ -1,4 +1,4 @@
-## Ananya
+# Tourist Attractions
 ### Welcome!
 >  Ready to go on the most fun and exciting adventure? 
 > What’s better than an exotic island with breathtaking viewpoints?
