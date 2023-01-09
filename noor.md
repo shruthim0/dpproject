@@ -1,8 +1,12 @@
 ## Noor
-> Prepare to follow in the footsteps of some of the most famous, *and* infamous, sailors of the West Indies. Both prince and pirate have set foot on this very island, and you'll get to learn all about it!
+> Prepare to follow in the footsteps of some of the most famous (and infamous) sailors of the West Indies. Both prince and pirate have set foot on this very island, and you'll get to learn all about it!
 <br>
 <br>
-During the Golden Age of Piracy (1650s-1730s), privateers-turned-pirate needed remote and uncharted islands to stash the cargo they had looted from royal ships. France, Britain, and Spain were heavily robbed, but not for gold, like you might have thought. The most precious booty for pirates was sugar and rum; both could fetch a fair price, worth more than enough of their weight in gold.  
+<br>
+
+### Sweet Cargo
+
+During the Golden Age of Piracy (1650s-1730s), privateers-turned-pirate needed remote and uncharted islands to stash the cargo they had looted from royal ships. France, Britain, and Spain were heavily robbed, but not for gold, like you might have thought. The most precious loot for pirates was sugar and rum; both could fetch a fair price, worth more than enough of their weight in gold.  
 <div class="row"> 
   <div class="column">
     <img src="images/sugarcane.jpg" alt="sugarcane" style="width:100%">
@@ -15,11 +19,22 @@ During the Golden Age of Piracy (1650s-1730s), privateers-turned-pirate needed r
   </div>
 </div>
 
-### Leuck Greet
-> Movie, Games, Popcorn.  As we slumber in from our travels, how about an unwinding night?
-- Start with Movie
-- Transition to games
-- Mom and Pop welcome, stories about there first family reunions.  Recap of some of the great Leuck get togethers. 
+### The REAL Prize
+> After their cargo was acquired and sold, what should a pirate do with their gold?
+<br>
+Bury it on our island of course!
+The famed treasure of Benjamin Hornigold was hidden on this very island, and is now located in our Museum of Piracy. Keep scrolling to learn why it is so valuable.
+<div class="row"> 
+  <div class="column">
+    <img src="images/brdtrsr.jpg" alt="buried treasure" style="width:100%">
+  </div>
+   <div class="column">
+    <img src="images/trsrmp.jpg" alt="treasure map" style="width:100%">
+  </div>
+   <div class="column">
+    <img src="images/reltrsromg.jpg" alt="real treasure omg" style="width:100%">
+  </div>
+</div>
 
 Trivia, which one is Frank and Judith?  who are the others?
 <div class="row"> <!--- make a new row -->
