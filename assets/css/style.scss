@@ -1,7 +1,7 @@
 ---
 ---
 
-
+@import "{{ site.theme }}";
 
 /* "row style" is flexible size and aligns pictures in center */
 .row {
@@ -16,7 +16,7 @@
   }
 
   body {
-    background-color: #d8f1dc;
+    background-color: #d8f1dc
   }
   
   a {
