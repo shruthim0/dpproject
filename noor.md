@@ -1,12 +1,13 @@
 ## Noor
-> Prepare to follow in the footsteps of some of the most famous (and infamous) sailors of the West Indies. Both prince and pirate have set foot on this very island, and you'll get to learn all about it!
+<br>
+Prepare to follow in the footsteps of some of the most famous (and infamous) sailors of the West Indies. Both prince and pirate have set foot on this very island, and you'll get to learn all about it!
 <br>
 <br>
 <br>
 
 ### Sweet Cargo
 
-During the Golden Age of Piracy (1650s-1730s), privateers-turned-pirate needed remote and uncharted islands to stash the cargo they had looted from royal ships. France, Britain, and Spain were heavily robbed, but not for gold, like you might have thought. The most precious loot for pirates was sugar and rum; both could fetch a fair price, worth more than enough of their weight in gold.  
+> During the Golden Age of Piracy (1650s-1730s), privateers-turned-pirate needed remote and uncharted islands to stash the cargo they had looted from royal ships. France, Britain, and Spain were heavily robbed, but not for gold, like you might have thought. The most precious loot for pirates was sugar and rum; both could fetch a fair price, worth more than enough of their weight in gold.  
 <div class="row"> 
   <div class="column">
     <img src="images/sugarcane.jpg" alt="sugarcane" style="width:100%">
@@ -18,7 +19,9 @@ During the Golden Age of Piracy (1650s-1730s), privateers-turned-pirate needed r
     <img src="images/drinking.jpg" alt="rum" style="width:100%">
   </div>
 </div>
-
+<br>
+<br>
+<br>
 ### The REAL Prize
 > After their cargo was acquired and sold, what should a pirate do with their gold?
 <br>
