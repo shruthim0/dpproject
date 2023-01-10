@@ -1,5 +1,24 @@
 # Tourist Attractions
 ### Welcome!
+
+>  Ready to go on the most fun and exciting adventure? 
+> What’s better than an exotic island with breathtaking viewpoints?
+> It boasts stunning viewpoints, the opportunity to explore beautiful scenery, to swim in natural rock pools and magnificent local bars for adults to enjoy.
+<div class="row"> 
+  <div class="column">
+    <img src="images/activity1.jpg" alt="Activities" style="width:100%">
+  </div>
+   <div class="column">
+    <img src="images/activity2.jpg" alt="Activities" style="width:100%">
+  </div>
+   <div class="column">
+    <img src="images/activity3.jpg" alt="Activities" style="width:100%">
+  </div>
+</div>
+
+> This  island has a lot to offer – whether you’re an outdoor enthusiast itching to enjoy incredible hikes, or looking for a romantic getaway with your loved one.
+> Here are a list of fun children friendly activities to do while on the island.
+
 > Click this button for other ideas
 
 
@@ -29,6 +48,8 @@
 </html>
 
 
+
+
 #  Need Ideas on what to do? Watch this video!
 <html>
    <head>
@@ -49,22 +70,6 @@
 
 <br>
 <br>
->  Ready to go on the most fun and exciting adventure? 
-> What’s better than an exotic island with breathtaking viewpoints?
-> It boasts stunning viewpoints, the opportunity to explore beautiful scenery, to swim in natural rock pools and magnificent local bars for adults to enjoy.
-<div class="row"> 
-  <div class="column">
-    <img src="images/activity1.jpg" alt="Activities" style="width:100%">
-  </div>
-   <div class="column">
-    <img src="images/activity2.jpg" alt="Activities" style="width:100%">
-  </div>
-   <div class="column">
-    <img src="images/activity3.jpg" alt="Activities" style="width:100%">
-  </div>
-</div>
-> This  island has a lot to offer – whether you’re an outdoor enthusiast itching to enjoy incredible hikes, or looking for a romantic getaway with your loved one.
-> Here are a list of fun children friendly activities to do while on the island.
 
 
 ### Waterfall Experiences
