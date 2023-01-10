@@ -83,7 +83,18 @@ These are just some examples of the beautiful sights at this location:
 <br>
 <br>
 
+### Sunset Beach
 
+<html>
+   <head>
+      <title>HTML Video embed</title>
+   </head>
+   <body>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/mahpObNroM0" frameborder="0" allowfullscreen></iframe>
+    </body>
+</html>
+<br>
+<br>
 
 ## Akaka Falls
 > *Visit this 442 foot drop of raging water and see the beautiful green nature surrounding it!* 
@@ -141,15 +152,15 @@ These are just some examples of the beautiful sights at this location:
 <br>
 <br>
 
-<html>
-  <head>
+
+<head>
     <title>---</title>
   </head>
   <body>
     <button onclick="window.location.href='https://www.hawaiitours.com/to-do/the-encounter/?utm_term=&utm_campaign=Sales-Performance+Max+-+California+-+Top+Performing+Demographics&utm_source=google&utm_medium=cpc&hsa_acc=3498969537&hsa_cam=18934892623&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAiAk--dBhABEiwAchIwkQjcJMGieCKfQUpqR9Tp9hrwnoB1u7NoMMR5732WWJJHTgg0AcB4gRoCAqMQAvD_BwE;'">
-      Click here for info on dolphin tours!
+      Click here for info on dolphin tours
     </button>
-  </body>
-</html>
+</body>
+
 
 
