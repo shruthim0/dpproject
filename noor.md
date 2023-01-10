@@ -55,7 +55,9 @@ Black Sam Bellamy and Blackbeard both started as crew members for Benjamin Horni
 - Two of the most prosperous pirates
 - Real gold 
 - One-of-a-kind treasure map
+<br>
 Why miss this opportunity?
+<br>
 <div class="row"> 
   <div class="column">
     <img src="images/hornigold.jpg" alt="hornigold" style="width:100%">
@@ -68,6 +70,18 @@ Why miss this opportunity?
   </div>
 </div>
 <br>
+<br>
+<br>
+
+### The Golden Age of Piracy
+<html>
+   <head>
+      <title>---</title>
+   </head>
+   <body>
+      <iframe width="560" height="315" src="https://youtu.be/IzRYraztZVA" frameborder="0" allowfullscreen></iframe>
+    </body>
+</html>
 <br>
 <br>
 
