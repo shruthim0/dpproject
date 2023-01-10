@@ -6,7 +6,7 @@
 /* "row style" is flexible size and aligns pictures in center */
 .row {
     align-items: center;
-    display: center;
+    display: flex;
   }
   
   /* "column style" is one-third of the width with padding */
