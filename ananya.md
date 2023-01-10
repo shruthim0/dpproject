@@ -29,13 +29,13 @@
 </html>
 
 
-#  Need Ideas on what to do? Watch this video
+#  Need Ideas on what to do? Watch this video!
 <html>
    <head>
       <title>---</title>
    </head>
    <body>
-      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Hnsb3zXVZn8" title="Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/Hnsb3zXVZn8" title="Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </body>
 </html>
 
