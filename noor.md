@@ -79,7 +79,7 @@ Why miss this opportunity?
       <title>---</title>
    </head>
    <body>
-      <iframe width="1268" height="713" src="https://www.youtube.com/embed/pX7F-Hxvr80" title="The Rise And Fall Of The Pirate Golden Age | Outlaws | Timeline" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/pX7F-Hxvr80" title="The Rise And Fall Of The Pirate Golden Age | Outlaws | Timeline" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </body>
 </html>
 <br>
