@@ -1,23 +1,35 @@
 # Tourist Attractions
 ### Welcome!
 > Click this button for other ideas
-<br>
-<br>
+
+
 <html>
-  <head>
-    <title>---</title>
-  </head>
-  <body>
-    <button onclick="window.location.href='https://www.tripadvisor.com/Attractions-g147423-Activities-Out_Islands_Bahamas.html/';">
-      Things to do
-    </button>
-  </body>
+<head>
+<style>
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button {background-color: #4CAF50;} /* Green */
+</style>
+</head>
+<body>
+
+<button onclick="window.location.href='https://www.tripadvisor.com/Attractions-g147423-Activities-Out_Islands_Bahamas.html/';">Click here to learn more about attractions!</button>
+
+</body>
 </html>
-<br>
-<br>
 
 
-#  Need Ideas on what to do?
+#  Need Ideas on what to do? Watch this video
 <html>
    <head>
       <title>---</title>
