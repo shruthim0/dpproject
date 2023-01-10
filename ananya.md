@@ -1,5 +1,35 @@
 # Tourist Attractions
 ### Welcome!
+> Click this button for other ideas
+<br>
+<br>
+<html>
+  <head>
+    <title>---</title>
+  </head>
+  <body>
+    <button onclick="window.location.href='https://www.tripadvisor.com/Attractions-g147423-Activities-Out_Islands_Bahamas.html">
+      Things to do
+    </button>
+  </body>
+</html>
+<br>
+<br>
+
+<br>
+<br>
+
+###  Need Ideas on what to do?
+<html>
+   <head>
+      <title>---</title>
+   </head>
+   <body>
+      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Hnsb3zXVZn8" title="Things to do while on this island" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </body>
+</html>
+<br>
+<br>
 >  Ready to go on the most fun and exciting adventure? 
 > What’s better than an exotic island with breathtaking viewpoints?
 > It boasts stunning viewpoints, the opportunity to explore beautiful scenery, to swim in natural rock pools and magnificent local bars for adults to enjoy.
