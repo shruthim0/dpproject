@@ -11,7 +11,6 @@ Your next vacation!
   </div>
 </div>
 
-
 <html>
   
 <head>
