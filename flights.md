@@ -1,0 +1,93 @@
+# Book a flight with Lilikoi Air
+> all flights from Lilikoi International (LIA)
+
+## Create a user
+
+<!-- below is what the user inputs; stored and eventually used -->
+<table>
+    <tr>
+        <th><label for="name">Name</label></th>
+        <th><label for="email">Email</label></th>
+        <th><label for="password">Password</label></th>
+        <th><label for="phone">Phone</label></th>
+    </tr>
+    <tr>
+        <td><input type="text" name="name" id="name" required></td>
+        <td><input type="email" name="email" id="email" placeholder="abc@xyz.org" required></td>
+        <td><input type="password" name="password" id="password" required></td>
+        <td><input type="tel" name="phone_num" id="phone_num"
+            pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"
+            placeholder="999-999-9999"></td>
+        <td ><button onclick="create_User()">Create</button></td>
+    </tr>
+<tr>
+</tr>
+</table>
+<div class="box">
+  <div class="clip"></div>
+  <ul class="left">
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
+  
+  <ul class="right">
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
+  
+  <div class="ticket">
+    <span class="airline">Postsnap</span>
+    <span class="airline airlineslip">Postsnap</span>
+    <span class="boarding">Boarding pass</span>
+    <div class="content">
+      <span class="jfk">LIA</span>
+      <span class="plane"><?xml version="1.0" ?><svg clip-rule="evenodd" fill-rule="evenodd" height="60" width="60" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg"><g stroke="#222"><line fill="none" stroke-linecap="round" stroke-width="30" x1="300" x2="55" y1="390" y2="390"/><path d="M98 325c-9 10 10 16 25 6l311-156c24-17 35-25 42-50 2-15-46-11-78-7-15 1-34 10-42 16l-56 35 1-1-169-31c-14-3-24-5-37-1-10 5-18 10-27 18l122 72c4 3 5 7 1 9l-44 27-75-15c-10-2-18-4-28 0-8 4-14 9-20 15l74 63z" fill="#222" stroke-linejoin="round" stroke-width="10"/></g></svg></span>
+      <span class="sfo">LAX</span>
+      
+      <span class="jfk jfkslip">LIA</span>
+      <span class="plane planeslip"><?xml version="1.0" ?><svg clip-rule="evenodd" fill-rule="evenodd" height="50" width="50" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg"><g stroke="#222"><line fill="none" stroke-linecap="round" stroke-width="30" x1="300" x2="55" y1="390" y2="390"/><path d="M98 325c-9 10 10 16 25 6l311-156c24-17 35-25 42-50 2-15-46-11-78-7-15 1-34 10-42 16l-56 35 1-1-169-31c-14-3-24-5-37-1-10 5-18 10-27 18l122 72c4 3 5 7 1 9l-44 27-75-15c-10-2-18-4-28 0-8 4-14 9-20 15l74 63z" fill="#222" stroke-linejoin="round" stroke-width="10"/></g></svg></span>
+      <span class="sfo sfoslip">LAX</span>
+
+      <!-- below is what is written on the ticket -->
+      <div class="sub-content">
+      <!-- added watermark -->
+        <span class="watermark">Lilikoi Air</span>
+        <span class="name">PASSENGER NAME<br><span>SAVLANI, Jiya</span></span>
+        <span class="flight">FLIGHT N&deg;<br><span>X3-65C3</span></span>
+        <span class="gate">GATE<br><span>11B</span></span>
+        <span class="seat">SEAT<br><span>45A</span></span>
+        <span class="boardingtime">BOARDING TIME<br><span>8:25PM ON JANUARY 2023</span></span>
+            
+         <span class="flight flightslip">FLIGHT N&deg;<br><span>X3-65C3</span></span>
+          <span class="seat seatslip">SEAT<br><span>45A</span></span>
+         <span class="name nameslip">PASSENGER NAME<br><span>SAVLANI, Jiya</span></span>
+      </div>
+    </div>
+  </div>
+</div>
+
+
