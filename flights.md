@@ -95,6 +95,123 @@
 
 
 
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>FAQ</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.3/css/bootstrap.min.css">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <style type="text/css">
+      body{
+        background: #eee;
+        padding-top: 20px;
+        font-family: monospace;
+      }
+      .header{
+        border-radius: 20px 20px 0px 0px;
+        padding: 10px 0px;
+        background: purple;
+        color: #fff;
+        width: 100%;
+        display: flex;
+        align-content: center;
+        justify-content: center;
+      }
+      .faq-item{
+        margin-bottom: 40px;
+        margin-top: 40px;
+      }
+      .faq-body{
+        display: none;
+        margin-top: 30px;
+      }
+      .faq-wrapper{
+        width: 75%;
+        margin: 0 auto;
+      }
+      .faq-inner{
+        padding: 30px;
+        background: aliceblue;
+      }
+      .faq-plus{
+        float: right;
+        font-size: 1.4em;
+        line-height: 1em;
+        cursor: pointer;
+      }
+      hr{
+        background-color: #9b9b9b;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="faq-wrapper">
+          <div class="header">
+            <h1>FAQs</h1>
+          </div>
+          <div class="faq-inner">
+            <div class="faq-item">
+              <h3>
+                Question 1 ?
+                <span class="faq-plus">&plus;</span>
+              </h3>
+              <div class="faq-body">
+                Answer
+              </div>
+            </div>
+            <hr>
+            <div class="faq-item">
+              <h3>
+                Question 2  ?
+                <span class="faq-plus">&plus;</span>
+              </h3>
+              <div class="faq-body">
+                Answer
+              </div>
+            </div>
+            <hr>
+            <div class="faq-item">
+              <h3>
+                Question 3  ?
+                <span class="faq-plus">&plus;</span>
+              </h3>
+              <div class="faq-body">
+               Answer
+              </div>
+            </div>
+            <hr>
+            <div class="faq-item">
+              <h3>
+               Question 4  ?
+                <span class="faq-plus">&plus;</span>
+              </h3>
+              <div class="faq-body">
+               Answer
+              </div>
+            </div>
+            <hr>
+            <div class="faq-item">
+              <h3>
+               Question 5  ?
+                <span class="faq-plus">&plus;</span>
+              </h3>
+              <div class="faq-body">
+                Answer
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script type="text/javascript">
+      $(".faq-plus").on('click',function(){
+        $(this).parent().parent().find('.faq-body').slideToggle();
+      });
+    </script>
+  </body>
+</html>
 
 # How was your experience?
 <textarea rows="10" cols="80">    
