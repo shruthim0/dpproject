@@ -255,5 +255,6 @@ Yes you saw right! We also offer fun helicopter tours around the island. The hel
     <img src="images/contest.jpg" alt="Activities" style="width:100%">
   </div>
 </div>
+
   
   
