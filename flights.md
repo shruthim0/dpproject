@@ -154,51 +154,51 @@
           <div class="faq-inner">
             <div class="faq-item">
               <h3>
-                Question 1 ?
+                Can I pay for my checked bags online before my flight?
                 <span class="faq-plus">&plus;</span>
               </h3>
               <div class="faq-body">
-                Answer
+                Yes! You can pay for your checked bags online at least 24 hours before your flight. Another thing you can do is pay when you check in for your flight.
               </div>
             </div>
             <hr>
             <div class="faq-item">
               <h3>
-                Question 2  ?
+                Are there service charges for sports equipment?
                 <span class="faq-plus">&plus;</span>
               </h3>
               <div class="faq-body">
-                Answer
+                Yes! Certain pieces of sports equipment have their own service charges. 
               </div>
             </div>
             <hr>
             <div class="faq-item">
               <h3>
-                Question 3  ?
+                What if I left an item on the flight? ?
                 <span class="faq-plus">&plus;</span>
               </h3>
               <div class="faq-body">
-               Answer
+               If you left an item on the flight, don't worry. We will make every effort to return lost items back to you. Visit our main website for more information.
               </div>
             </div>
             <hr>
             <div class="faq-item">
               <h3>
-               Question 4  ?
+               What are the limit for bags?
                 <span class="faq-plus">&plus;</span>
               </h3>
               <div class="faq-body">
-               Answer
+               You can check-in 2 bags per person and keep one cabin bag.
               </div>
             </div>
             <hr>
             <div class="faq-item">
               <h3>
-               Question 5  ?
+               Will I get a refund if my flight is cancelled and I don't travel that day?
                 <span class="faq-plus">&plus;</span>
               </h3>
               <div class="faq-body">
-                Answer
+                You will get a refund for checked bags service charges when you involuntarily do not travel. 
               </div>
             </div>
           </div>
