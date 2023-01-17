@@ -1,3 +1,6 @@
+<img src="https://media3.giphy.com/media/l2Sq87bt4GOdAnlGo/giphy.gif?cid=790b7611b564906fbdb7c2d94754271b68e23e8e1e53e5c5&rid=giphy.gif&ct=g" width="550" height="250" />
+
+
 # Book a flight with Lilikoi Air
 > all flights from Lilikoi International (LIA)
 
@@ -91,3 +94,9 @@
 </div>
 
 
+
+
+# How was your experience?
+<textarea rows="10" cols="80">    
+                          Thank you for flying with LIA! 
+                           Write your experience here. 
